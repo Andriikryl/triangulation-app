@@ -2,6 +2,18 @@ body{
     margin: 0;
     text-align: center;
     overflow: hidden;
+    font-size: 25px;
+    font-size: Arial;
+    color: white;
+    text-shadow: 0 0 4px #000, 0 0 4px #000;
+}
+
+#mySlider{
+    appearance: none;
+    width: 95%;
+    height: 35px;
+    background: tomato;
+    margin-top: 35px;
 }
 
 video{
